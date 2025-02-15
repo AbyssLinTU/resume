@@ -1,0 +1,60 @@
+{
+    "softSkills": [
+      "I adapt well to the new team",
+      "I quickly learn new things",
+      "Team player",
+      "Good communication skills",
+      "Stress resistant"
+    ],
+    "hardSkills": {
+      "names":{
+        "Other": "Other"
+      },
+      "HTML": [
+        { "name": "Semantic markup", "level": 3 },
+        { "name": "Forms", "level": 2 },
+        { "name": "Attributes", "level": 3 },
+        { "name": "Working with navigation", "level": 3 }
+      ],
+      "CSS": [
+        { "name": "Adaptive layout", "level": 2 },
+        { "name": "Combinators", "level": 2 },
+        { "name": "Pseudoclasses", "level": 3 },
+        { "name": "Flexbox", "level": 3 },
+        { "name": "CSS-grid", "level": 3 },
+        { "name": "Position", "level": 2 }
+      ],
+      "JS": [
+        { "name": "Basic", "level": 3 },
+        { "name": "Locks", "level": 2 },
+        { "name": "Asynchrony", "level": 2 },
+        { "name": "DOM", "level": 1 },
+        { "name": "Methods of working with arrays", "level": 3 }
+      ],
+      "React": [
+        { "name": "Creating components", "level": 3 },
+        { "name": "Hooks", "level": 2 },
+        { "name": "React router", "level": 2 },
+        { "name": "Props", "level": 2 }
+      ],
+      "Redux": [
+        { "name": "Creating a store", "level": 2 },
+        { "name": "Redux Thunk", "level": 1 },
+        { "name": "RTKQuery", "level": 1 }
+      ],
+      "TS": [
+        { "name": "Type", "level": 3 },
+        { "name": "Generics", "level": 1 }
+      ],
+      "Other": [
+        { "name": "Git", "level": 2 },
+        { "name": "tailwind", "level": 2 },
+        { "name": "axios", "level": 2 },
+        { "name": "Scss", "level": 3 },
+        { "name": "Figma", "level": 3 },
+        { "name": "Angular", "level": 1 },
+        { "name": "Eslint", "level": 2 }
+      ]
+    }
+  }
+  

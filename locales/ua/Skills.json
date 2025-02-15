@@ -1,0 +1,60 @@
+{
+    "softSkills": [
+      "Добре адаптуюсь до нового колективу",
+      "Швидко навчаюся новому",
+      "Командний гравець",
+      "Гарні комунікативні навички",
+      "Стресостійкий"
+    ],
+    "hardSkills": {
+      "names":{
+        "Other": "Іншe"
+      },
+      "HTML": [
+        { "name": "Семантична верстка", "level": 3 },
+        { "name": "Форми", "level": 2 },
+        { "name": "Атрибути", "level": 3 },
+        { "name": "Робота з навігацією", "level": 3 }
+      ],
+      "CSS": [
+        { "name": "Адаптивна верстка", "level": 2 },
+        { "name": "Комбінатори", "level": 2 },
+        { "name": "Псевдо-класи", "level": 3 },
+        { "name": "Флекс-бокс", "level": 3 },
+        { "name": "CSS-grid", "level": 3 },
+        { "name": "Позіціонування", "level": 2 }
+      ],
+      "JS": [
+        { "name": "Основи", "level": 3 },
+        { "name": "Замикання", "level": 2 },
+        { "name": "Асинхронність", "level": 2 },
+        { "name": "DOM", "level": 1 },
+        { "name": "Методи роботи з масивами", "level": 3 }
+      ],
+      "React": [
+        { "name": "Створення компонентів", "level": 3 },
+        { "name": "Хуки", "level": 2 },
+        { "name": "Реакт-роутер", "level": 2 },
+        { "name": "Пропси", "level": 2 }
+      ],
+      "Redux": [
+        { "name": "Створення стору", "level": 2 },
+        { "name": "Redux Thunk", "level": 1 },
+        { "name": "RTKQuery", "level": 1 }
+      ],
+      "TS": [
+        { "name": "Типи", "level": 3 },
+        { "name": "Дженерики", "level": 1 }
+      ],
+      "Other": [
+        { "name": "Git", "level": 2 },
+        { "name": "tailwind", "level": 2 },
+        { "name": "axios", "level": 2 },
+        { "name": "Scss", "level": 3 },
+        { "name": "Figma", "level": 3 },
+        { "name": "Angular", "level": 1 },
+        { "name": "Eslint", "level": 2 }
+      ]
+    }
+  }
+  
